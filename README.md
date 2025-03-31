@@ -2,6 +2,8 @@
 
 Bem-vindo ao repositório do **Análise AI**, um projeto desenvolvido com **Oracle APEX**. A ideia é usar essa IA para responder a perguntas relacionadas a exames médicos, trazendo respostas precisas e baseadas em fontes confiáveis.! 🚀
 
+![Interface do Análise AI](image/TelaInicial.png)
+
 ## 🌟 Sobre o Projeto
 O **Análise AI** tem como objetivo fornecer uma plataforma interativa para análise e interpretação de Exames Médicos. Utilizando o **Oracle APEX**, 
 uma IA RAG desenvolvida no Oracle APEX, focada na Interpretação de exames médicos. Conseguimos criar uma aplicação web eficiente e acessível para qualquer usuário interessado em IA e análise de dados.
