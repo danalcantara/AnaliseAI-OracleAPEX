@@ -51,14 +51,14 @@ Este projeto está sob a licença **MIT** – sinta-se à vontade para usar, mod
 
 ## 💬 Contato
 Se tiver dúvidas ou sugestões, entre em contato comigo:
-- **GitHub**: [IarleySouza](https://github.com/IarleySouza)
-- **LinkedIn**: [Iarley Souza](https://www.linkedin.com/in/iarley-souza/)
+- **GitHub**: [Danilo de Santana Alcantara](https://github.com/danalcantara)
+- **LinkedIn**: [Danilo de Santana Alcantara](https://www.linkedin.com/in/danilo-alcantara-096094210/)
 
 
 ## 🤝 Contribuintes
 Agradecimentos especiais aos contribuidores que ajudaram neste projeto:
 - **Contribuinte 1** : [Andressa Prudente](https://www.linkedin.com/in/andressa-prudente-morais/)
-- **Contribuinte 2** : [Danilo Alcantra](https://www.linkedin.com/in/danilo-alcantara-096094210/)
+- **Contribuinte 2** : [Danilo Alcantara](https://www.linkedin.com/in/danilo-alcantara-096094210/)
 - **Contribuinte 3** : [Daniel Coutinho](https://www.linkedin.com/in/danielmcoutinho/)
 - **Contribuinte 4** : [Iarley Souza](https://www.linkedin.com/in/iarley-souza/)
 
